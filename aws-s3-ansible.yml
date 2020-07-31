@@ -6,6 +6,6 @@
     tasks:
       - name: Create new bucket
         aws_s3:
-          bucket: testme15486816841516168161
+          bucket: bigtimbervending420
           mode: create
           region: us-west-2b
